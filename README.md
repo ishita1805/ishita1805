@@ -17,10 +17,10 @@
 
 - 👨🏽‍💻 I’m currently working on my personal blog website! <b>MediumRare</b> <br/>
 - 🌱 I’m currently learning Golang and Java<br/>
-<!-- - 👯 I’m looking to collaborate on  ________ 🤝<br/> -->
 - 💬 Ask me anything about ReactJS<br/>
 - ⚡️ Fun-Fact: I am an artist too! 🎨 [Check me out here](https://www.instagram.com/artiishiii.__)<br/>
 - 🌐 Know more about me: https://atishi.me<br/>
+<!-- - 👯 I’m looking to collaborate on  ________ 🤝<br/> -->
 
 ![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishita1805&show_icons=true&hide_border=true)
 
