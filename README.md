@@ -4,7 +4,7 @@
 <a  href="https://www.linkedin.com/in/ishita-kabra-3b305818b/">
 <img alt="Instagram"  width="27px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>
 </a>
-&emsp;
+&ensp;
 <a  href="https://www.instagram.com/artiishiii.__/">
 <img width="27px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>
 </a>
@@ -17,7 +17,7 @@
 
 - 👨🏽‍💻 I’m currently working on my personal blog website! <b>MediumRare</b> <br/>
 - 🌱 I’m currently learning Golang and Java<br/>
-- 👯 I’m looking to collaborate on  ________ 🤝<br/>
+<!-- - 👯 I’m looking to collaborate on  ________ 🤝<br/> -->
 - 💬 Ask me anything about ReactJS<br/>
 - ⚡️ Fun-Fact: I am an artist too! 🎨 [Check me out here](https://www.instagram.com/artiishiii.__)<br/>
 - 🌐 Know more about me: https://atishi.me<br/>
