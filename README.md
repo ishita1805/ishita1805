@@ -46,7 +46,7 @@
 <img src="https://atishi.me/static/media/docker.c254a56d.webp" height="40px"/>
 <img src="https://atishi.me/static/media/nginx.417dc4c3.webp" height="40px"/>
 <img src="aws.png" height="40px"/>
-<img src="https://atishi.me/static/media/ps.39720ba0.webp" height="40px"/>
-<img src="https://atishi.me/static/media/ai.be4eb3ab.webp" height="40px"/>
-<img src="https://atishi.me/static/media/figma.5d0a6465.webp" height="40px"/>
+<img src="ps.webp" height="40px"/>
+<img src="ai.webp" height="40px"/>
+<img src="figma.webp" height="40px"/>
 </div>
