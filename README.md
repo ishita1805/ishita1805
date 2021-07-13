@@ -1,4 +1,4 @@
-## Hi there 👋🏽, I'm [Ishita!](https://atishi.me)
+# Hi there 👋🏽, I'm [Ishita!](https://atishi.me)
 
 <p>
 <a  href="https://www.linkedin.com/in/ishita-kabra-3b305818b/">
@@ -26,7 +26,7 @@
 
 ![Ishita's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ishita1805&show_icons=true&locale=en&layout=compact)
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ishita1805&)
+<!-- ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ishita1805&) -->
 
 
 ### Tools and technologies i love working with
