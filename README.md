@@ -39,7 +39,7 @@
 <img src="https://atishi.me/static/media/selenium.cd98b64f.webp" height="40px"/>
 <img src="https://atishi.me/static/media/py.a0e06118.webp" height="40px"/>
 <img src="https://atishi.me/static/media/opencv.80d2dd56.webp" height="40px"/>
-<img src="https://atishi.me/static/media/postman.0498949c.webp" height="40px"/>
+<img src="postman.png" height="40px"/>
 <img src="https://atishi.me/static/media/docker.c254a56d.webp" height="40px"/>
 <img src="https://atishi.me/static/media/nginx.417dc4c3.webp" height="40px"/>
 <img src="aws.png" height="40px"/>
