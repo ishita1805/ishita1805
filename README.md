@@ -24,9 +24,7 @@
 
 ![Ishita's github stats](https://github-readme-stats.vercel.app/api?username=ishita1805&show_icons=true&hide_border=true)
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishita1805&show_icons=true&locale=en&layout=compact" alt="ishita1805"/>
-</p>
+![Ishita's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ishita1805&show_icons=true&locale=en&layout=compact)
 
 <br/>
 
