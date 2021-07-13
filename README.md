@@ -26,9 +26,8 @@
 
 ![Ishita's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ishita1805&show_icons=true&locale=en&layout=compact)
 
-<br/>
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ishita1805&)
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ishita1805&"  alt="ishita1805" /></p>
 
 ### Tools and technologies i love working with
 <div>
