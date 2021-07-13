@@ -26,13 +26,13 @@
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ishita1805&"  alt="ishita1805" /></p>
 
-### Tools and technologies
+### Tools and technologies i love working with
 <div>
 <img src="https://atishi.me/static/media/js.db79583a.webp" height="40px"/>
 <img src="https://atishi.me/static/media/graphql.8f30c7c2.webp" height="40px"/>
 <img src="https://atishi.me/static/media/node.af70137b.webp" height="40px"/>
 <img src="https://atishi.me/static/media/go.9b23d467.webp" height="40px"/>
-<img src="https://atishi.me/static/media/react.b0777da8.webp" height="40px"/>
+<img src="react.png" height="40px"/>
 <img src="https://atishi.me/static/media/pg.bf2840da.webp" height="40px"/>
 <img src="https://atishi.me/static/media/mongo.af7ae994.webp" height="40px"/>
 <img src="https://atishi.me/static/media/sql.1136eb93.webp" height="40px"/>
@@ -42,7 +42,7 @@
 <img src="https://atishi.me/static/media/postman.0498949c.webp" height="40px"/>
 <img src="https://atishi.me/static/media/docker.c254a56d.webp" height="40px"/>
 <img src="https://atishi.me/static/media/nginx.417dc4c3.webp" height="40px"/>
-<img src="https://atishi.me/static/media/aws.f12449e1.webp" height="40px"/>
+<img src="aws.png" height="40px"/>
 <img src="https://atishi.me/static/media/ps.39720ba0.webp" height="40px"/>
 <img src="https://atishi.me/static/media/ai.be4eb3ab.webp" height="40px"/>
 <img src="https://atishi.me/static/media/figma.5d0a6465.webp" height="40px"/>
