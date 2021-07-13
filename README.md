@@ -1,16 +1,18 @@
 ## Hi there 👋🏽, I'm [Ishita!](https://atishi.me)
- <p>
+
+<p>
 <a  href="https://www.linkedin.com/in/ishita-kabra-3b305818b/">
-<img align="left"  alt="LinkedIn"  width="27px"  src="linkedin.svg" />
+<img alt="Instagram"  width="27px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png"/>
 </a>
 &emsp;
 <a  href="https://www.instagram.com/artiishiii.__/">
-<img align="left"  alt="Instagram"  width="27px"  src="instagram.svg" />
+<img width="27px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>
 </a>
 </p>
- <img  src="https://komarev.com/ghpvc/?username=ishita1805&label=Profile%20views&color=0e75b6&style=flat"  alt="ishita1805" />  
-<br />
-Hi, I am Ishita. A full-stack developer and an artist. Studying at VIT Vellore. I love learning new things. You'll always find me working on a project ;).  🧁
+
+<img  src="https://komarev.com/ghpvc/?username=ishita1805&label=Profile%20views&color=0e75b6&style=flat"  alt="ishita1805" />  
+<b>Hi, I am Ishita. A full-stack developer and an artist. Studying at VIT Vellore. I love learning new things. You'll always find me working on a project ;).  🧁</b>
+<br/>
 <br/>
 
 - 👨🏽‍💻 I’m currently working on my personal blog website! <b>MediumRare</b> <br/>
